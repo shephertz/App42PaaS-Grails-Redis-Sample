@@ -16,7 +16,7 @@ Project Configuration:
 		  
 				compile ":redis:1.4.2"
 				
-		 3. Open Config.groovy (located in grails-app/Cconf folder).
+		 3. Open Config.groovy (located in grails-app/conf folder).
 		 
          4. Add Redis configuration details in it.
 
